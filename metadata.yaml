@@ -1,0 +1,30 @@
+_repo: Medi-val-Heresy-and-the-Inquisition_46149
+_version: 0.1.0
+alternative_title: Mediæval Heresy and the Inquisition
+covers:
+- cover_type: archival
+  image_path: 46149-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Turberville, Arthur Stanley
+    alias: Turberville, A. S. (Arthur Stanley)
+    birthdate: 1888
+    deathdate: 1945
+    gutenberg_agent_id: '43631'
+    url: http://www.gutenberg.org/2009/agents/43631
+description: ''
+gutenberg_issued: '2014-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inquisition'
+- !lcsh 'Sects, Medieval'
+- !lcc 'BR'
+- !lcsh 'Heresy'
+title: Mediæval Heresy & the Inquisition
+url: http://www.gutenberg.org/ebooks/46149
